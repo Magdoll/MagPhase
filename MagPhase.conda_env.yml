@@ -1,0 +1,19 @@
+name: MagPhase.env
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - r
+  - defaults
+dependencies:
+  - bcbiogff
+  - biopython
+  - bx-python
+  - numpy
+  - psutil
+  - pybedtools
+  - pysam
+  - python>=3.7.6
+  - pyvcf
+  - samtools
+  - scipy
